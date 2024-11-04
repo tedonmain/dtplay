@@ -1,0 +1,14 @@
+/workspaces/dotnet-2/dtplay/bin/Debug/net9.0/dtplay
+/workspaces/dotnet-2/dtplay/bin/Debug/net9.0/dtplay.deps.json
+/workspaces/dotnet-2/dtplay/bin/Debug/net9.0/dtplay.runtimeconfig.json
+/workspaces/dotnet-2/dtplay/bin/Debug/net9.0/dtplay.dll
+/workspaces/dotnet-2/dtplay/bin/Debug/net9.0/dtplay.pdb
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/dtplay.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/dtplay.AssemblyInfoInputs.cache
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/dtplay.AssemblyInfo.cs
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/dtplay.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/dtplay.dll
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/refint/dtplay.dll
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/dtplay.pdb
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/dtplay.genruntimeconfig.cache
+/workspaces/dotnet-2/dtplay/obj/Debug/net9.0/ref/dtplay.dll
