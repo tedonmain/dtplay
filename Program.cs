@@ -29,4 +29,5 @@ DateTime dt2 = DateTime.ParseExact(dt1, "yyyy-MM-dd HH:mm:ss.fff", null);
 Console.WriteLine("dt2 - dt1 converted to dateteime: " + dt2.ToString("dddd, MMMM dd, yyyy HH:mm:ss.tt"));
 Console.WriteLine("dt2 - dt1 converted to dateteime: " + dt2.ToString("yyyy-MM-dd HH:mm:ss.fff"));
 
+Console.WriteLine("Press any key to exit.");
 Console.ReadLine();

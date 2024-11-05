@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/vscode/.nuget/packages/": {}
+    "/Users/ted/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/dotnet-2/dtplay/dtplay.csproj",
+      "projectUniqueName": "/Users/ted/gh/dtplay/dtplay.csproj",
       "projectName": "dtplay",
-      "projectPath": "/workspaces/dotnet-2/dtplay/dtplay.csproj",
-      "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/dotnet-2/dtplay/obj/",
+      "projectPath": "/Users/ted/gh/dtplay/dtplay.csproj",
+      "packagesPath": "/Users/ted/.nuget/packages/",
+      "outputPath": "/Users/ted/gh/dtplay/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vscode/.nuget/NuGet/NuGet.Config"
+        "/Users/ted/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
